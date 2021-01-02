@@ -1,9 +1,4 @@
-/**
-* Template Name: iPortfolio - v1.1.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
-*/
+
 
 /*--------------------------------------------------------------
 # General
@@ -70,7 +65,7 @@ h1, h2, h3, h4, h5, h6 {
   transition: all 0.5s;
   padding: 0 15px;
   /*background: #040b14;*/
-  background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+  background-image: linear-gradient(to right, #434343 0%, black 100%);
   overflow-y: auto;
 }
 
@@ -902,7 +897,7 @@ background-color: #a367fb;
 }
 
 .contact .php-email-form button[type="submit"] {
-background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+  background-image: linear-gradient(to right, #434343 0%, black 100%);
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -944,7 +939,7 @@ background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
   bottom: 0;
   width: 300px;
   z-index: 9999;
- background-image: linear-gradient(to right, #6a11cb 0%, #2575fc 100%);
+  background-image: linear-gradient(to right, #434343 0%, black 100%);;
 }
 
 #footer .copyright {
