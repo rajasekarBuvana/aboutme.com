@@ -1,8 +1,7 @@
 /**
-* Template Name: iPortfolio - v1.1.0
-* Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: Rajasekar Portfolio
+* Template URL: https://rajasekarbuvana.github.io/aboutmyresume.com
+* Author: RajasekarBuvana
 */
 !(function($) {
   "use strict";
