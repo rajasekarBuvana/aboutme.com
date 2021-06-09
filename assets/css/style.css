@@ -35,8 +35,8 @@ p{
   border-radius: 50px;
   right: 15px;
   bottom: 15px;
-  background: #007ced;
-  color: #fff;
+  background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+  color: #000;
   transition: display 0.5s ease-in-out;
   z-index: 99999;
 }
