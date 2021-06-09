@@ -803,7 +803,7 @@ background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
 }
 
 .contact .php-email-form button[type="submit"] {
-  background-image: linear-gradient(to right, #434343 0%, black 100%);
+background-image: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
   border: 0;
   padding: 10px 24px;
   color: #fff;
