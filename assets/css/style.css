@@ -68,7 +68,7 @@ p{
   transition: all 0.5s;
   padding: 0 15px;
   background: #000000;
-  overflow-y: auto;
+/*   overflow-y: auto; */
 }
 
 #header .profile img {
